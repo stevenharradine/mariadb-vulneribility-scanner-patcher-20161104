@@ -1,5 +1,5 @@
 # MariaDB CVE Scanner / Patcher 20161104
-This script will scan your system for mysql (MariaDB specificly) for [CVE-2016-6663](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6663) [CVE-2016-6663](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6664) [CVE-2016-5616](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5616) [CVE-2016-5617](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5617).
+This script will scan your system for mysql (MariaDB specificly) for [CVE-2016-6663](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6663) [CVE-2016-6664](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-6664) [CVE-2016-5616](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5616) [CVE-2016-5617](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-5617).
 
 **Note**: This script has not been tested with non-mariadb installs
 
